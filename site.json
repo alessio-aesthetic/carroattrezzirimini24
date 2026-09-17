@@ -1,7 +1,7 @@
 {
   "city": "Rimini",
   "domain": "carroattrezzirimini24.it",
-  "brand": "RIVIERA / RECUPERI",
+  "brand": "Riviera Recuperi",
   "phone": null,
   "address": null,
   "email": "assistenza@carroattrezzirimini24.it",
@@ -14,5 +14,12 @@
     "Verucchio"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "racing"
+  "theme": "racing",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Lettering inclinato da competizione, doppia scia e bandiera a scacchi essenziale.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
