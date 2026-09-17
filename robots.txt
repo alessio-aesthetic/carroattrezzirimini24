@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carroattrezzirimini24.it/sitemap.xml

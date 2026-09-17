@@ -1,0 +1,18 @@
+{
+  "city": "Rimini",
+  "domain": "carroattrezzirimini24.it",
+  "brand": "RIVIERA / RECUPERI",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezzirimini24.it",
+  "nearby": [
+    "Riccione",
+    "Santarcangelo di Romagna",
+    "Bellaria-Igea Marina",
+    "Coriano",
+    "Misano Adriatico",
+    "Verucchio"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "racing"
+}
